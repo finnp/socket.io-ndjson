@@ -1,0 +1,31 @@
+{
+  "name": "socket.io-ndjson",
+  "version": "1.0.0",
+  "description": "CLI for streaming incoming socket.io messages as ndjson.",
+  "bin": {
+    "socketio": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/socket.io-ndjson"
+  },
+  "keywords": [
+    "socketio",
+    "stream",
+    "cli",
+    "ndjson"
+  ],
+  "bugs": {
+    "url": "https://github.com/finnp/socket.io-ndjson/issues"
+  },
+  "homepage": "https://github.com/finnp/socket.io-ndjson"
+}
